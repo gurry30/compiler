@@ -1,1 +1,0 @@
-/usr/bin/c++  -std=c++11 -faligned-new -O2 -Wall -fPIC   -rdynamic CMakeFiles/ir_mutator.dir/ir_mutator.cc.o  -o ir_mutator -Wl,-rpath,/home/sunnight/CompilerProject-2020Spring-master/build ../libboost.so -ldl ../lib/libjsoncpp.a 
